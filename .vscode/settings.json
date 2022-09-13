@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/437270e0-3b20-4ada-b0cf-d00993f36ad9/microsoft.web/sites/subscriptions/437270e0-3b20-4ada-b0cf-d00993f36ad9/resourceGroups/12.09.2022/providers/Microsoft.Web/sites/testwebappka",
+  "appService.deploySubpath": "."
+}
